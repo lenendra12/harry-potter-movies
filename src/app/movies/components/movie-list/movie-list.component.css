@@ -1,0 +1,10 @@
+.navbar .container{
+  height: 10%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+img{
+  height: auto;
+}
